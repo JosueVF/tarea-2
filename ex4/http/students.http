@@ -1,0 +1,16 @@
+//GET http://localhost:3000/students?limit=10 HTTP/1.1
+
+//GET http://localhost:3000/students/studentsSH HTTP/1.1
+
+//GET http://localhost:3000/students/Iapellido?IlastN=R HTTP/1.1
+
+//GET http://localhost:3000/students/stMa20 HTTP/1.1
+
+//GET http://localhost:3000/students/st26-28 HTTP/1.1
+
+//GET http://localhost:3000/teachers?limit=10 HTTP/1.1
+
+//GET http://localhost:3000/teachers/ts26-28 HTTP/1.1
+
+GET http://localhost:3000/teachers/id?id=T0009 HTTP/1.1
+
